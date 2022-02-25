@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sample-manuscript.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample.bib
+A bad cross reference---entry "els"
+refers to entry "DBLP:conf/chi/2018", which doesn't exist
+A bad cross reference---entry "bel"
+refers to entry "DBLP:conf/chi/2014", which doesn't exist
+A bad cross reference---entry "car"
+refers to entry "DBLP:conf/cscw/2015", which doesn't exist
+A bad cross reference---entry "fer"
+refers to entry "DBLP:conf/cscw/2015", which doesn't exist
+A bad cross reference---entry "kay"
+refers to entry "DBLP:conf/chi/2014a", which doesn't exist
+A bad cross reference---entry "lam"
+refers to entry "DBLP:conf/cscw/2015c", which doesn't exist
+A bad cross reference---entry "mil"
+refers to entry "DBLP:conf/cscw/2015c", which doesn't exist
+A bad cross reference---entry "shi"
+refers to entry "DBLP:conf/chi/2015", which doesn't exist
+A bad cross reference---entry "khar"
+refers to entry "DBLP:conf/acmidc/2020ea", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/chi/2014"
+Warning--I didn't find a database entry for "DBLP:conf/acmidc/2020ea"
+Warning--I didn't find a database entry for "DBLP:conf/cscw/2015"
+Warning--I didn't find a database entry for "DBLP:conf/chi/2018"
+Warning--I didn't find a database entry for "DBLP:conf/chi/2014a"
+Warning--I didn't find a database entry for "DBLP:conf/cscw/2015c"
+Warning--I didn't find a database entry for "DBLP:conf/chi/2015"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in bel
+Warning--empty address in bel
+Warning--empty publisher in car
+Warning--empty address in car
+Warning--empty publisher in els
+Warning--empty address in els
+Warning--empty publisher in fer
+Warning--empty address in fer
+Warning--empty publisher in gra
+Warning--empty address in gra
+Warning--page numbers missing in both pages and numpages fields in gra
+Warning--empty publisher in 9459415
+Warning--empty address in 9459415
+Warning--empty publisher in kay
+Warning--empty address in kay
+Warning--empty publisher in khar
+Warning--empty address in khar
+Warning--empty publisher in lam
+Warning--empty address in lam
+Warning--empty publisher in mil
+Warning--empty address in mil
+Warning--no number and no volume in nak
+Warning--no number and no volume in nar
+Warning--page numbers missing in both pages and numpages fields in nar
+Warning--empty publisher in sharp1
+Warning--empty address in sharp1
+Warning--empty publisher in shi
+Warning--empty address in shi
+You've used 16 entries,
+            5959 wiz_defined-function locations,
+            1585 strings with 22774 characters,
+and the built_in function-call counts, 21078 in all, are:
+= -- 2377
+> -- 879
+< -- 0
++ -- 296
+- -- 292
+* -- 1550
+:= -- 2147
+add.period$ -- 80
+call.type$ -- 16
+change.case$ -- 130
+chr.to.int$ -- 16
+cite$ -- 44
+duplicate$ -- 1885
+empty$ -- 1301
+format.name$ -- 352
+if$ -- 4998
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 76
+newline$ -- 186
+num.names$ -- 128
+pop$ -- 792
+preamble$ -- 1
+purify$ -- 274
+quote$ -- 0
+skip$ -- 692
+stack$ -- 0
+substring$ -- 1469
+swap$ -- 200
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 424
+warning$ -- 28
+while$ -- 113
+width$ -- 0
+write$ -- 329
+(There were 9 error messages)

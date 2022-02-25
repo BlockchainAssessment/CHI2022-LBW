@@ -1,0 +1,287 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{16}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Bellotti, Cambridge, Hoy, Shih, Handalian,
+  Han, and Carroll}{Bellotti et~al\mbox{.}}{2014}]%
+        {bel}
+\bibfield{author}{\bibinfo{person}{Victoria Bellotti}, \bibinfo{person}{Sara
+  Cambridge}, \bibinfo{person}{Karen Hoy}, \bibinfo{person}{Patrick~C. Shih},
+  \bibinfo{person}{Lisa~Renery Handalian}, \bibinfo{person}{Kyungsik Han},
+  {and} \bibinfo{person}{John~M. Carroll}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Towards community-centered support for peer-to-peer
+  service exchange: rethinking the timebanking metaphor}. In
+  \bibinfo{booktitle}{\emph{{CHI} Conference on Human Factors in Computing
+  Systems, CHI'14, Toronto, ON, Canada - April 26 - May 01, 2014}}.
+  \bibinfo{pages}{2975--2984}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2556288.2557061}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Carroll and Bellotti}{Carroll and
+  Bellotti}{2015}]%
+        {car}
+\bibfield{author}{\bibinfo{person}{John~M. Carroll} {and}
+  \bibinfo{person}{Victoria Bellotti}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Creating Value Together: The Emerging Design Space
+  of Peer-to-Peer Currency and Exchange}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 18th {ACM} Conference on
+  Computer Supported Cooperative Work {\&} Social Computing, {CSCW} 2015,
+  Vancouver, BC, Canada, March 14 - 18, 2015}}. \bibinfo{pages}{1500--1510}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2675133.2675270}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chen, Xu, Lu, and Chen}{Chen
+  et~al\mbox{.}}{2018}]%
+        {chen}
+\bibfield{author}{\bibinfo{person}{Guang Chen}, \bibinfo{person}{Bing Xu},
+  \bibinfo{person}{Manli Lu}, {and} \bibinfo{person}{Nian-Shing Chen}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Exploring blockchain technology and its potential
+  applications for education}.
+\newblock \bibinfo{journal}{\emph{Smart Learning Environments}}
+  \bibinfo{volume}{5}, \bibinfo{number}{1} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Elsden, Manohar, Briggs, Harding, Speed, and
+  Vines}{Elsden et~al\mbox{.}}{2018}]%
+        {els}
+\bibfield{author}{\bibinfo{person}{Chris Elsden}, \bibinfo{person}{Arthi
+  Manohar}, \bibinfo{person}{Jo Briggs}, \bibinfo{person}{Mike Harding},
+  \bibinfo{person}{Chris Speed}, {and} \bibinfo{person}{John Vines}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Making Sense of Blockchain Applications: {A}
+  Typology for {HCI}}. In \bibinfo{booktitle}{\emph{Proceedings of the 2018
+  {CHI} Conference on Human Factors in Computing Systems, {CHI} 2018, Montreal,
+  QC, Canada, April 21-26, 2018}}. \bibinfo{pages}{458}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3173574.3174032}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ferreira, Perry, and Subramanian}{Ferreira
+  et~al\mbox{.}}{2015}]%
+        {fer}
+\bibfield{author}{\bibinfo{person}{Jennifer Ferreira}, \bibinfo{person}{Mark~J.
+  Perry}, {and} \bibinfo{person}{Sriram Subramanian}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Spending Time with Money: From Shared Values to
+  Social Connectivity}. In \bibinfo{booktitle}{\emph{Proceedings of the 18th
+  {ACM} Conference on Computer Supported Cooperative Work {\&} Social
+  Computing, {CSCW} 2015, Vancouver, BC, Canada, March 14 - 18, 2015}}.
+  \bibinfo{pages}{1222--1234}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2675133.2675230}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gr{\"a}ther, Kolvenbach, Ruland, Sch{\"u}tte,
+  Torres, and Wendland}{Gr{\"a}ther et~al\mbox{.}}{2018}]%
+        {gra}
+\bibfield{author}{\bibinfo{person}{Wolfgang Gr{\"a}ther},
+  \bibinfo{person}{Sabine Kolvenbach}, \bibinfo{person}{Rudolf Ruland},
+  \bibinfo{person}{Julian Sch{\"u}tte}, \bibinfo{person}{Christof Torres},
+  {and} \bibinfo{person}{Florian Wendland}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Blockchain for education: lifelong learning
+  passport}. In \bibinfo{booktitle}{\emph{Proceedings of 1st ERCIM Blockchain
+  Workshop 2018}}. European Society for Socially Embedded Technologies
+  (EUSSET).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Iansiti and Lakhani}{Iansiti and
+  Lakhani}{2017}]%
+        {ian}
+\bibfield{author}{\bibinfo{person}{Marco Iansiti} {and}
+  \bibinfo{person}{Karim~R Lakhani}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{The Truth About Blockchain Harvard Business
+  Review}.
+\newblock \bibinfo{journal}{\emph{Harvard University, hbr.
+  org/2017/01/the-truth-about-blockchain, accessed date: February}}
+  \bibinfo{volume}{2} (\bibinfo{year}{2017}), \bibinfo{pages}{2019}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Iqbal, Mangina, and Campbell}{Iqbal
+  et~al\mbox{.}}{2021}]%
+        {9459415}
+\bibfield{author}{\bibinfo{person}{Muhammad~Zahid Iqbal},
+  \bibinfo{person}{Eleni Mangina}, {and} \bibinfo{person}{Abraham~G.
+  Campbell}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Exploring the Real-Time Touchless Hand Interaction
+  and Intelligent Agents in Augmented Reality Learning Applications}. In
+  \bibinfo{booktitle}{\emph{2021 7th International Conference of the Immersive
+  Learning Research Network (iLRN)}}. \bibinfo{pages}{1--8}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.23919/iLRN52045.2021.9459415}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kaye, Vertesi, Ferreira, Brown, and
+  Perry}{Kaye et~al\mbox{.}}{2014}]%
+        {kay}
+\bibfield{author}{\bibinfo{person}{Jofish Kaye}, \bibinfo{person}{Janet
+  Vertesi}, \bibinfo{person}{Jennifer Ferreira}, \bibinfo{person}{Barry A.~T.
+  Brown}, {and} \bibinfo{person}{Mark~J. Perry}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{\#}CHImoney: financial interactions, digital cash,
+  capital exchange and mobile money}. In \bibinfo{booktitle}{\emph{{CHI}
+  Conference on Human Factors in Computing Systems, CHI'14, Toronto, ON, Canada
+  - April 26 - May 01, 2014, Extended Abstracts}}. \bibinfo{pages}{111--114}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2559206.2559221}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kharrufa, Abaci, Brul{\'{e}}, Slov{\'{a}}k,
+  Venn{-}Wycherley, and Lambton{-}Howard}{Kharrufa et~al\mbox{.}}{2020}]%
+        {khar}
+\bibfield{author}{\bibinfo{person}{Ahmed Kharrufa}, \bibinfo{person}{Serdar
+  Abaci}, \bibinfo{person}{Emeline Brul{\'{e}}}, \bibinfo{person}{Petr
+  Slov{\'{a}}k}, \bibinfo{person}{Megan Venn{-}Wycherley}, {and}
+  \bibinfo{person}{Daniel Lambton{-}Howard}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Evaluation of emerging educational technologies in
+  the classroom}. In \bibinfo{booktitle}{\emph{Extended Abstracts Proceedings
+  of the 19th {ACM} International Conference on Interaction Design and
+  Children, {IDC} 2020, London, United Kingdom, June 17-24, 2020}}.
+  \bibinfo{pages}{77--84}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3397617.3398065}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lampinen, Bellotti, Monroy{-}Hern{\'{a}}ndez,
+  Cheshire, and Samuel}{Lampinen et~al\mbox{.}}{2015}]%
+        {lam}
+\bibfield{author}{\bibinfo{person}{Airi Lampinen}, \bibinfo{person}{Victoria
+  Bellotti}, \bibinfo{person}{Andr{\'{e}}s Monroy{-}Hern{\'{a}}ndez},
+  \bibinfo{person}{Coye Cheshire}, {and} \bibinfo{person}{Alexandra Samuel}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Studying the "Sharing Economy": Perspectives to
+  Peer-to-Peer Exchange}. In \bibinfo{booktitle}{\emph{18th {ACM} Conference on
+  Computer Supported Cooperative Work {\&} Social Computing, {CSCW} 2015,
+  Vancouver, BC, Canada, March 14-18, 2015, Companion Volume}}.
+  \bibinfo{pages}{117--121}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2685553.2699339}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Millen, Pinhanez, Kaye, Bianchi, and
+  Vines}{Millen et~al\mbox{.}}{2015}]%
+        {mil}
+\bibfield{author}{\bibinfo{person}{David~R. Millen},
+  \bibinfo{person}{Claudio~S. Pinhanez}, \bibinfo{person}{Jofish Kaye},
+  \bibinfo{person}{Silvia Cristina~Sardela Bianchi}, {and}
+  \bibinfo{person}{John Vines}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Collaboration and Social Computing in Emerging
+  Financial Services}. In \bibinfo{booktitle}{\emph{18th {ACM} Conference on
+  Computer Supported Cooperative Work {\&} Social Computing, {CSCW} 2015,
+  Vancouver, BC, Canada, March 14-18, 2015, Companion Volume}}.
+  \bibinfo{pages}{309--312}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2685553.2685562}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Nakamoto}{Nakamoto}{2008}]%
+        {nak}
+\bibfield{author}{\bibinfo{person}{Satoshi Nakamoto}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Bitcoin: A peer-to-peer electronic cash system}.
+\newblock \bibinfo{journal}{\emph{Decentralized Business Review}}
+  (\bibinfo{year}{2008}), \bibinfo{pages}{21260}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Narayanan, Bonneau, Felten, Miller, and
+  Goldfeder}{Narayanan et~al\mbox{.}}{2019}]%
+        {nar}
+\bibfield{author}{\bibinfo{person}{Arvind Narayanan}, \bibinfo{person}{Joseph
+  Bonneau}, \bibinfo{person}{Edward Felten}, \bibinfo{person}{Andrew Miller},
+  {and} \bibinfo{person}{Steven Goldfeder}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Bitcoin and cryptocurrency technologies}.
+\newblock \bibinfo{journal}{\emph{Curso elaborado pela}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sharples and Domingue}{Sharples and
+  Domingue}{2016}]%
+        {sharp1}
+\bibfield{author}{\bibinfo{person}{Mike Sharples} {and} \bibinfo{person}{John
+  Domingue}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{The blockchain and kudos: A distributed system for
+  educational record, reputation and reward}. In
+  \bibinfo{booktitle}{\emph{European conference on technology enhanced
+  learning}}. Springer, \bibinfo{pages}{490--496}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Shih, Bellotti, Han, and Carroll}{Shih
+  et~al\mbox{.}}{2015}]%
+        {shi}
+\bibfield{author}{\bibinfo{person}{Patrick~C. Shih}, \bibinfo{person}{Victoria
+  Bellotti}, \bibinfo{person}{Kyungsik Han}, {and} \bibinfo{person}{John~M.
+  Carroll}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Unequal Time for Unequal Value: Implications of
+  Differing Motivations for Participation in Timebanking}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 33rd Annual {ACM} Conference on
+  Human Factors in Computing Systems, {CHI} 2015, Seoul, Republic of Korea,
+  April 18-23, 2015}}. \bibinfo{pages}{1075--1084}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2702123.2702560}
+\showDOI{\tempurl}
+
+
+\end{thebibliography}
