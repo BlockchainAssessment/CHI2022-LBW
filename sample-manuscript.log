@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.11)  25 FEB 2022 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.11)  25 FEB 2022 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1233,11 +1233,7 @@ Package pdftex.def Info: fig2.jpeg  used on input line 351.
 
 Class acmart Warning: A possible image without description on input line 355.
 
-[4.4 <./fig1.pdf>] [5.5 <./fig2.jpeg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6.6]
-(./sample-manuscript.bbl
+[4.4 <./fig1.pdf>] [5.5 <./fig2.jpeg>] [6.6] (./sample-manuscript.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 50.
 LaTeX Info: Redefining \tempurl on input line 70.
@@ -1245,8 +1241,8 @@ LaTeX Info: Redefining \tempurl on input line 101.
 LaTeX Info: Redefining \tempurl on input line 118.
 LaTeX Info: Redefining \tempurl on input line 161.
 LaTeX Info: Redefining \tempurl on input line 178.
-LaTeX Info: Redefining \tempurl on input line 196.
  [7.7]
+LaTeX Info: Redefining \tempurl on input line 196.
 LaTeX Info: Redefining \tempurl on input line 214.
 LaTeX Info: Redefining \tempurl on input line 232.
 LaTeX Info: Redefining \tempurl on input line 283.
@@ -1267,11 +1263,11 @@ Package rerunfilecheck Info: File `sample-manuscript.out' has not changed.
 Here is how much of TeX's memory you used:
  19019 strings out of 492616
  290320 string characters out of 6129480
- 427465 words of memory out of 5000000
+ 426906 words of memory out of 5000000
  22073 multiletter control sequences out of 15000+600000
  158391 words of font info for 290 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,16n,94p,822b,619s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,16n,94p,822b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
 }{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{
@@ -1286,7 +1282,7 @@ rtineTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/Li
 nLibertineTI.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts
 /rtxmi.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newtx/txsys.p
 fb>
-Output written on sample-manuscript.pdf (8 pages, 773908 bytes).
+Output written on sample-manuscript.pdf (8 pages, 774037 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams
