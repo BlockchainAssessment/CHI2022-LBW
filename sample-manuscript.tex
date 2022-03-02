@@ -149,7 +149,7 @@
 %% other information printed in the page headers. This command allows
 %% the author to define a more concise list
 %% of authors' names for this purpose.
-\renewcommand{\shortauthors}{Alipour and et al.}
+\renewcommand{\shortauthors}{Alipour et al.}
 
 %%
 %% The abstract is a short summary of the work to be presented in the
@@ -159,7 +159,7 @@
   The proposed method applies to a wide range of academic material, including assignments, exams, academic papers, etc 
   and tackles issues regarding potential personal bias and makes assessment possible without the need to rely on a few assessors.
   We examine the challenges and possibilities that arise with this method and further explore more general applications in areas such as education.
-  In the experiments conducted for this research, poll results generally show positive views toward the fairness of this system compared to the traditional methods.
+  In the experiments conducted for this research, poll results show generally positive views toward the fairness of this system compared to the traditional methods.
   
 \end{abstract}
 
@@ -356,9 +356,8 @@ Fig. \ref{fig2} presents the main functionalities in our proposed system.
 
 \subsection{Our experiment}
 
-As an initial experiment, about fifty students (two classes) from the undergraduate level of the Computer Engineering department at Sharif University of Technology assessed their first homework. Each homework was assessed by three students. Any student who had taken the course was eligible for the grading procedure. We gave eight hours to the student for completing this task. In the end, we released their final grade. Eighty percent of the final grade came from the mean of the grades given by the students and
-the remaining twenty percent was given based on the quality of assessments done by each student, determined by asking each student about the fairness of each assessment done on their paper. Note that the identity of the assessors was not known by the students.
-This twenty percent helped the people who were unable to submit their homework by the deadline. They had the chance to attend the assessment process and get twenty percent of the grade.
+As an initial experiment, about fifty students (two classes) from the undergraduate level of the Computer Engineering department at the Sharif University of Technology assessed their first homework. Each homework was assessed by three students. Any student who had taken the course was eligible for the grading procedure. We gave eight hours to the student for completing this task. In the end, we released their final grade. Eighty percent of the final grade came from the mean of the points given by the students, and the remaining twenty percent was decided based on the quality of assessments done by each student, determined by asking each student about the fairness of each assessment of their paper. Note that the assessors remained anonymous to the students.
+This twenty percent helped the students unable to submit their homework by the deadline. They had the chance to attend the assessment process and get twenty percent of the grade.
 We also took the grades through the traditional method, in which a teaching assistant had graded the answers in a centralized manner, into consideration.
 Next, we asked the students to give a score from zero to ten to some questions about the fairness and speed of the proposed method and the traditional method. See Table \ref{t1} for the average scores given by students.
 
@@ -366,14 +365,18 @@ Next, we asked the students to give a score from zero to ten to some questions a
 \begin{table*}[h!]
 \caption{The questions and the averages of scores given by the students.}
 \begin{center}
-\begin{tabular}{| l | ll |}
+\begin{tabular}{| l | cc | cc |}
+ \multicolumn{1}{ c }{} & \multicolumn{2}{ c }{This method} & \multicolumn{2}{ c }{The traditional method} \\
+  
  \hline
- Question & Average in this method & Average in the traditional method\\ \hline
- Fairness of your grade& 8.49/10& 7.89/10 \\ \hline
+  
+ Question & Average & Standard deviation &Average & Standard deviation\\ \hline
  
- Fairness of overall grades of the students &8.13/10 &7.38/10 \\ \hline
+ Fairness of your grade & 8.49/10 &  1.29 & 7.89/10 & 1.97 \\ \hline
  
- Grading speed & 7.76/10 & 5.44/10 \\ \hline
+ Overall fairness of all grades & 8.13/10 & 1.39 & 7.38/10 & 2.18 \\ \hline
+ 
+ Grading speed & 7.76/10 &  2.51 & 5.44/10& 2.27 \\ \hline
  
  
  
@@ -388,8 +391,8 @@ We also asked the participants to choose one of the methods and roughly 60 perce
 The average time for assessing the papers per student was 1.31 hours.
 So as we expected, this method was faster and fairer according to the students' opinions.
 
-We also asked the students to give their comments and suggestions to improve the performance of our model in the future.
-Mostly, students believed that using this model in grading results in saving instructor and TA's time to better focus on teaching and organizing tutorial sessions, while also acting as a course review for students, possibly decreasing the need for additional review exercises.
+We also asked the students to give their comments and suggestions to improve our model in the future.
+Most of the students believed that using this model in grading saved time for the instructor and the teaching assistants to better focus on teaching and organizing tutorial sessions. They also pointed out that this process can act as a course review, possibly decreasing the need for additional review exercises.
 The suggestions and comments are worthy of consideration in future developments. However, the complaints are not as troublesome as they seem, and we explain why.
 \begin{itemize}
 \item What happens if all of the students in the class decide to give a full grade to each other?

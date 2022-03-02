@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.11)  25 FEB 2022 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.11)  28 FEB 2022 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1239,11 +1239,11 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 LaTeX Info: Redefining \tempurl on input line 70.
 LaTeX Info: Redefining \tempurl on input line 101.
 LaTeX Info: Redefining \tempurl on input line 118.
-LaTeX Info: Redefining \tempurl on input line 161.
 
-Underfull \vbox (badness 1558) has occurred while \output is active []
+Underfull \vbox (badness 5260) has occurred while \output is active []
 
  [7.7]
+LaTeX Info: Redefining \tempurl on input line 161.
 LaTeX Info: Redefining \tempurl on input line 178.
 LaTeX Info: Redefining \tempurl on input line 196.
 LaTeX Info: Redefining \tempurl on input line 214.
@@ -1255,22 +1255,26 @@ Class acmart Warning: Some images may lack descriptions.
 
 Package atenddvi Info: Last page = 8.
 [8.8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 452.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 452.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 455.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 455.
  (./sample-manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 452.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 452.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 455.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 455.
 Package rerunfilecheck Info: File `sample-manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 77841C8A8A0504A146CF7993F024DB02;1849.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 19019 strings out of 492616
- 290320 string characters out of 6129480
- 427341 words of memory out of 5000000
- 22073 multiletter control sequences out of 15000+600000
- 158391 words of font info for 290 fonts, out of 8000000 for 9000
+ 19029 strings out of 492616
+ 290552 string characters out of 6129480
+ 426528 words of memory out of 5000000
+ 22074 multiletter control sequences out of 15000+600000
+ 159210 words of font info for 296 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,16n,94p,822b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,16n,94p,822b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
 }{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{
@@ -1285,7 +1289,7 @@ rtineTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/Li
 nLibertineTI.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts
 /rtxmi.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newtx/txsys.p
 fb>
-Output written on sample-manuscript.pdf (8 pages, 774382 bytes).
+Output written on sample-manuscript.pdf (8 pages, 774479 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams
